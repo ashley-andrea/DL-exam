@@ -1,5 +1,5 @@
 # Image Segmentation Using U-Net Inspired CNN
------
+
 ### Project Overview
 This project focuses on performing image segmentation using deep learning techniques. The dataset used consists of aerial images, where the task is to classify each pixel into one of six possible categories. The primary aim was to explore various deep learning tools, rather than optimize for the best possible score, and to implement an encoder-decoder convolutional neural network (CNN) architecture inspired by the U-Net structure.
 
